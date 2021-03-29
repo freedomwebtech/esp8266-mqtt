@@ -1,7 +1,7 @@
 from umqtt.simple import MQTTClient
 import hcsr04
 from time import sleep
-server = "192.168.0.100"
+server = "MQTT Broker ip address or Hostname"
 
 topic = "test2"
 
